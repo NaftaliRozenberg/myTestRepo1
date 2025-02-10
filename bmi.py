@@ -11,4 +11,4 @@ if (BMI >30 and BMI <=35):
 	print("grade 2 overweight")
 if (BMI >35):
 	print("danger to life")
-    
+print('tzvi zait')
